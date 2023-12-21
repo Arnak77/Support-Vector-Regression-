@@ -1,1 +1,9 @@
-separate dependent and independent variables
+importing all the libraries-:
+checking if any value is missing-:
+separate dependent and independent variables-:
+    1]iloc()
+    2]value()
+Machine Learning Libraries-:
+  1]from sklearn.svm import SVR
+  2]and use all parameter
+  3] and predict the salary using SVR
